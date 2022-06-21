@@ -1,0 +1,4 @@
+framework module SwiftPakageSDK {
+  header "SwiftPakageSDK-Swift.h"
+  requires objc
+}
